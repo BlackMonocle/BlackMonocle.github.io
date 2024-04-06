@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Network Security Archives - Black Monocle</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Cloud Security Consultancy &#38; Services</description>
+	<lastBuildDate>Sat, 05 Aug 2023 14:03:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/04/cropped-mono-fav-32x32.png</url>
+	<title>Network Security Archives - Black Monocle</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Strengthening Online Security: Understanding Single Sign-On (SSO) and Authentication</title>
+		<link>./../../../2023/08/05/strengthening-online-security-understanding-single-sign-on-sso-and-authentication/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 13:59:29 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=420</guid>
+
+					<description><![CDATA[<p>In an increasingly digital world, where information flows freely and transactions occur at the click of a button, the need</p>
+<p>The post <a href="./../../../2023/08/05/strengthening-online-security-understanding-single-sign-on-sso-and-authentication/index.html">Strengthening Online Security: Understanding Single Sign-On (SSO) and Authentication</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

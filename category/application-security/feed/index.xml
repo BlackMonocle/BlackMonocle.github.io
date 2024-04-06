@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Application Security Archives - Black Monocle</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Cloud Security Consultancy &#38; Services</description>
+	<lastBuildDate>Wed, 18 Jan 2023 13:51:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/04/cropped-mono-fav-32x32.png</url>
+	<title>Application Security Archives - Black Monocle</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How Can Red Teaming Help Your Business?</title>
+		<link>./../../../2023/01/18/how-can-red-teaming-help-your-business/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 18 Jan 2023 13:51:24 +0000</pubDate>
+				<category><![CDATA[Application Security]]></category>
+		<category><![CDATA[End User Education]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=353</guid>
+
+					<description><![CDATA[<p>Red teaming is a form of simulated attack that is designed to test an organization&#8217;s security and defense capabilities. The</p>
+<p>The post <a href="./../../../2023/01/18/how-can-red-teaming-help-your-business/index.html">How Can Red Teaming Help Your Business?</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

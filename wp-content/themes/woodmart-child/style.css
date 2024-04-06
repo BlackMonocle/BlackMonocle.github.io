@@ -1,0 +1,630 @@
+/*
+ Theme Name:   Woodmart Child
+ Description:  Woodmart Child Theme
+ Author:       XTemos
+ Author URI:   http://xtemos.com
+ Template:     woodmart
+ Version:      1.0.0
+ Text Domain:  woodmart
+*/
+
+@font-face {
+    font-family: 'Cal Sans';
+    src: url('./fonts/CalSans-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* > > > HEADER < < < */
+.whb-navigation.main-nav ul.menu > li > a {
+    color: #FFFFFF !important;
+    text-transform: capitalize !important;
+}
+.navigation-style-underline .nav-link-text:after{
+	top: 130% !important;
+	background-color: #FF5800 !important;
+}
+.whb-navigation.main-nav ul.menu > li:not(:last-child) {
+    margin-right: 20px;
+}
+.header-contact-btn {
+    background: #FF5800 !important;
+    border-radius: 5px !important;
+    text-transform: capitalize !important;
+    font-family: 'Poppins' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 15px !important;
+    color: #FFFFFF !important;
+    min-width: 150px;
+    min-height: 50px;
+}
+.header-tel-text {
+    text-align: right;
+}
+.header-tel-text > a {
+    display: block;
+    font-family: 'Poppins' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    color: #FFFFFF !important;
+}
+.header-tel-text {
+    font-family: 'Poppins' !important;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    font-size: 14px;
+    color: #FFFFFF !important;
+}
+.hero-title .liner-continer {
+    margin-bottom: 0;
+}
+.scroll-down > span {
+    font-size: 26px !important;
+    margin: 0 0 0 -3px !important;
+}
+.scroll-down {
+    font-size: 0;
+    text-align: center !important;
+    width: 70px;
+    height: 75px;
+}
+.hero-row .woodmart-button-wrapper {
+    position: absolute;
+    right: 1%;
+    bottom: 0;
+	margin-bottom: 0 !important;
+}
+.hero-row > div {
+    position: static;
+}
+.security-title.woodmart-title-color-default .liner-continer:after {
+    background-color: #FF5800 !important;
+    height: 8px !important;
+    width: 140px !important;
+}
+.primary-btn {
+    min-width: 160px !important;
+    min-height: 60px !important;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000 !important;
+    text-transform: capitalize !important;
+}
+.security-img {
+    position: relative;
+    z-index: 2;
+}
+.custom-title.woodmart-title-color-default .liner-continer:after {
+    background-color: #949D9E !important;
+    height: 8px !important;
+    width: 140px !important;
+}
+.custom-title.woodmart-title-color-default .liner-continer {
+    max-width:max-content !important;
+}
+.secondary-btn {
+    min-width: 160px !important;
+    min-height: 60px !important;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    color: #fff !important;
+    text-transform: capitalize !important;
+}
+.offers-info-box:hover {
+    box-shadow: 5px 4px 25px rgb(0 0 0 / 10%);
+    border-color: #fff !important;
+    transform: scale(1.01);
+	z-index: 2;
+    position: relative;
+}
+.offers-info-box {
+    border: 2px solid #E7E7E7;
+    margin-bottom: 0 !important;
+    min-height: 350px;
+    display: grid;
+    place-content: space-around;
+    padding: 6%;
+    transition: 0.4s !important;
+	background:#fff !important;
+}
+.asset-secure-section {
+	background: #FF5800;
+	padding: 8% 4%;
+}
+.asset-secure-section a.btn {
+	font-family: 'Poppins';
+	font-size: 15px;
+	font-weight: 400;line-height: 40px;
+	letter-spacing: 0.3em;
+	text-transform: uppercase;
+	color: #FFFFFF !important;
+	border: none;
+	max-width: max-content;
+	margin-left: auto;
+	display: block;
+}
+.asset-secure-section a.btn:after {
+	content: '';
+	background: url(./../../uploads/2022/04/Arrow-1-min.png);
+	display: inline-block;
+	width: 45px;
+	height: 18px;
+	vertical-align: middle;
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-left: 15px;
+}
+
+/* FOOTER */
+
+.social-btns a i:hover {
+    color: #2c2c2ced !important;
+}
+.social-btns a i {
+    color: #181818 !important;
+}
+.social-btns:before {
+    content: 'Stay Connected:';
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #181818 !important;
+    margin-right: 5px;
+}
+.footer-title .woodmart-title-container {
+    text-transform: uppercase !important;
+}
+.social-btns:before {
+	content: 'Stay Connected:';
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'Poppins';
+	font-weight: 400;
+	font-size: 16px;
+	color: #181818 !important;
+	margin-right: 5px;
+}
+.social-btns {
+    margin-bottom: 10px !important;
+}
+.social-btns a i {
+	color: #181818 !important;
+}
+.social-btns a i:hover {
+	color: #2c2c2ced !important;
+}
+.footer-title .woodmart-title-container {
+	text-transform: uppercase !important;
+}
+footer .mc4wp-form-fields {
+	margin: 0;
+	justify-content: start !important;
+	max-width: 100%;
+}
+.footer-form input[type="email"] {
+	border: none !important;
+	border-bottom: 1px solid #C4C4C4 !important;
+	width: 500px !important;
+}
+.footer-form {
+	display: flex;
+	flex-direction: column !important;
+	row-gap: 10px !important;
+}
+.footer-form input[type="submit"] {
+	max-width: 160px !important;
+	min-height: 60px !important;
+	background: #fff !important;
+	color: #181818 !important;
+	border: 1px solid #C4C4C4 !important;
+}
+.footer-form input[type="submit"]:hover {
+    background: #181818 !important;
+    color: #fff !important;
+}
+.footer-menu ul li a {
+	color: #181818 !important;
+}
+.footer-menu ul li.current-menu-item a {
+	color: #ff5800 !important;
+	text-transform: uppercase;
+	font-weight: 700 !important;
+}
+.footer-list-style .list-content a:hover {
+    color: #ff5800;
+}
+.footer-list-style .list-content a {
+    color: #181818;
+}
+.footer-list-style {
+    margin-bottom: 15px;
+}
+
+/* EXTRA SPACE */
+
+.main-page-wrapper {
+    padding-top: 0;
+}
+
+.site-content {
+    margin-bottom: 0;
+}
+
+.woodmart-prefooter {
+    padding-bottom: 0;
+}
+
+.footer-sidebar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.footer-column {
+    margin-bottom: 0;
+}
+
+
+/* > > > RESPONSIVE < < < */
+
+@media screen and (min-width: 1025px){
+	
+}
+@media screen and (max-width: 1024px){
+	.footer-logo img {
+    max-width: 80%;
+}	
+}
+@media (min-width:768px){
+	.security-main-row {
+    background-size: 80% 100%;
+}
+	.security-img:before {
+    content: '';
+    background: #fff;
+    top: -50%;
+    left: -100%;
+    right: 50%;
+    bottom: -50%;
+    display: block;
+    position: absolute;
+    z-index: -1;
+}
+}
+@media screen and (max-width: 768px){
+	.asset-secure-section a.btn:after {
+    width: 35px;
+    height: 15px;
+}
+	.asset-secure-section a.btn {
+    font-size: 14px;
+}
+	.asset-secure-section {
+    background: #FF5800;
+    padding: 5% 4%;
+}
+	.security-title.woodmart-title-color-default .liner-continer:after {
+    width: 80px !important;
+}
+	.custom-title.woodmart-title-color-default .liner-continer:after {
+    width: 80px!important;
+}
+}
+@media screen and (max-width: 767px){
+	.hero-row .woodmart-button-wrapper{
+		display: none !important;
+	}
+	.security-main-row {
+		background-size: cover;
+	}
+	.offers-info-box{
+		margin-bottom:25px !important;
+		}
+	.asset-secure-section a.btn{
+		margin: auto !important;
+		}
+	.copy-right-text .woodmart-title-container {
+		text-align: left;
+	}
+	.xs-center.woodmart-title-color-default .liner-continer:after {
+		left: 50% !important;
+		transform: translateX(-50%) !important;
+	}
+	.home .woodmart-button-wrapper,
+	.footer-logo,
+	.social-btns,
+	.footer-title,
+	.xs-center,
+	.footer-menu ul,
+	.footer-list-style ul,
+	.policy-text .woodmart-title-container{
+		text-align: center !important;
+	}
+	.custom-title.xs-center.woodmart-title-color-default .liner-continer {
+		max-width: 100% !important;
+	}
+	footer .mc4wp-form-fields {
+		justify-content: center !important;
+	}
+	.footer-form {
+		align-items: center !important;
+	}
+	.footer-list-style ul > li {
+    	display: block;
+	}
+	div.policy-text {
+		margin-bottom: 0 !important;
+    	margin-top: 15px !important;
+	}
+}
+@media screen and (max-width: 550px){
+	.footer-form input[type="email"] {
+    width: 300px !important;
+}
+}
+
+/* INSDIE PAGES */
+
+.page-title {
+    padding-bottom: 6%;
+    margin-bottom: 0 !important;
+}
+.page-title h1.entry-title {
+    font-size: 78px !important;
+    color: #FFFFFF;
+}
+.page-title-menu ul#menu-page-menu li {
+    margin-bottom: 0 !important;
+}
+.page-title-menu ul#menu-page-menu {
+    display: flex;
+    column-gap: 6% !important;
+}
+.page-title-menu ul#menu-page-menu li a {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.services-inner-row {
+    row-gap: 30px !important;
+    display: flex;
+    flex-wrap: wrap;
+}
+.service-title.woodmart-title-color-default .liner-continer:after {
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+}
+.img-style, .pt-img-2, .img-style-2.vs-img-2, .img-style-2.soc-img-2 {
+    position: relative;
+}
+.img-style:before {
+    content: '';
+    background: url(./../../uploads/2022/04/Cloud-Security.svg);
+    top: -50px;
+    left: -50px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background-size: 50% !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fff !important;
+    box-shadow: 5px 4px 25px rgb(143 143 143 / 25%);
+    border-radius: 50%;
+    padding: 30px;
+}
+.cs-box > .vc_column-inner > .wpb_wrapper {
+    background: #FFFFFF;
+    box-shadow: 5px 4px 25px rgb(154 154 154 / 25%);
+    padding: 5%;
+}
+.img-style.pt-img-1:before {
+    background: url(./../../uploads/2022/04/Network.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.pt-img-2:before {
+	content: '';
+    background: url(./../../uploads/2022/04/Network.svg);
+    top: -50px;
+    right: -50px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background-size: 50% !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fff !important;
+    box-shadow: 5px 4px 25px rgb(143 143 143 / 25%);
+    border-radius: 50%;
+    padding: 30px;
+}
+.list-style .list-icon {
+	font-size: 5px !important;
+}
+.list-style span.list-content {
+	color: #181818 !important;
+	font-weight:600 !important;
+}
+.wa-img:before {
+    background: url(./../../uploads/2022/04/Web-App.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.se-img:before {
+    background: url(./../../uploads/2022/04/Social-Engineering.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img-style.vs-img-1:before {
+	background: url(./../../uploads/2022/04/Rectangle-31-min.png);
+	background-repeat: no-repeat;
+    background-position: center;
+}
+.img-style-2.vs-img-2:before {
+    content: '';
+    background: url(./../../uploads/2022/04/Rectangle-31-min.png);
+    top: -50px;
+    right: -50px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background-size: 50% !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fff !important;
+    box-shadow: 5px 4px 25px rgb(143 143 143 / 25%);
+    border-radius: 50%;
+    padding: 30px;
+}
+.img-style-2.soc-img-2:before {
+    content: '';
+    background: url(./../../uploads/2022/04/Rectangle-31-1-min.png);
+    top: -50px;
+    right: -50px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background-size: 50% !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fff !important;
+    box-shadow: 5px 4px 25px rgb(143 143 143 / 25%);
+    border-radius: 50%;
+    padding: 30px;
+}
+
+.soc-img-1:before {
+	background: url(./../../uploads/2022/04/Rectangle-31-1-min.png);
+	background-repeat: no-repeat;
+    background-position: center;
+} 
+.row.cf-field {
+	background: #FFFFFF;
+	box-shadow: 5px 4px 25px rgba(0, 0, 0, 0.1);
+	padding: 12% 8%;
+	row-gap: 20px;
+}
+.row.cf-field .field {
+	border: none !important;
+	height: 60px !important;
+	background: #ECECEC;
+}
+.row.cf-field .field::placeholder {
+	font-size: 16px !important;
+	color: #ADADAD !important;
+}
+textarea.field {
+	min-height:160px;
+	resize:none;
+}
+.cf-field input.wpcf7-submit {background: #FF5800 !important;
+    border-radius: 10px !important;
+    text-transform: capitalize !important;
+    font-family: 'Poppins' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 15px !important;
+    color: #FFFFFF !important;
+    min-width: 160px;
+    min-height: 65px;margin: auto;
+	display: block;
+}
+.contact-list span.list-content {
+    color: #181818 !important;
+}
+.contact-list {
+    margin-bottom: 10px !important;
+}
+.contact-icons:before {
+    content: 'Stay Connected:';
+    font-size: 16px;
+    color: #181818 !important;
+    vertical-align: middle;
+}
+.contact-icons {
+    margin-top: 30px !important;
+}
+.contact-icons i {
+    color: #FF5800 !important;
+}
+.contact-icons i:hover {
+    color: #f15c0d !important;
+}
+
+
+/* RESPONSIVE */
+
+@media (max-width:1200px){
+	.img-style:before {
+    top: -40px;
+    left: 0px;
+    width: 80px;
+    height: 80px;
+    background-size: 50% !important;
+}
+	.pt-img-2:before, .img-style-2.vs-img-2:before, .img-style-2:before  {
+	top: -40px;
+    right: 0px !important;
+    width: 80px;
+    height: 80px;
+    background-size: 50% !important;
+	}
+}
+@media (min-width:1024px){
+	.services-text .woodmart-title-container {
+    max-width: 70%;
+}
+}
+@media (max-width:1024px){
+	.page-title h1.entry-title {
+    font-size: 48px !important;
+}
+}
+@media (max-width:768px){
+	.page-title h1.entry-title {
+    font-size: 40px !important;
+}
+	.page-title-menu ul#menu-page-menu li a {
+    font-size: 14px;
+}
+	.img-style:before, .pt-img-2:before, .img-style-2:before  {
+    background-size: 60% !important;
+}
+}
+@media (max-width:767px){
+	.contact-list ul li {
+    display: block;
+    text-align: center;
+}
+	.contact-icons {
+	text-align: center;
+}
+}
+
+
+
+
+
+
+
+
+
+
+.dokan-alert-danger,.dokan-alert-info,.dokan-alert-warning,.dokan-error,.dokan-info,.mc4wp-error,.mc4wp-notice,
+.woocommerce-error,.woocommerce-info,.wpcf7 form.aborted .wpcf7-response-output,.wpcf7 form.failed .wpcf7-response-output,
+.wpcf7 form.invalid .wpcf7-response-output,.wpcf7 form.spam .wpcf7-response-output,.wpcf7 form.unaccepted .wpcf7-response-output,
+div.wpcf7-mail-sent-ng,div.wpcf7-validation-errors{background-color:#E0B252}.dokan-alert-success,.dokan-message,
+.dokan-store-contact .alert-success,.mc4wp-success,.woocommerce-message,.wpcf7 form.sent .wpcf7-response-output,
+.wpcf7-mail-sent-ok,.yith_ywraq_add_item_product_message{background-color:#459647;color:white}.wpcf7 form.init .wpcf7-response-output,
+.screen-reader-response {display:none}

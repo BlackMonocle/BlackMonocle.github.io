@@ -1,0 +1,6 @@
+projectKey=blackmonocle-static
+serverUrl=http://192.168.1.150:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://192.168.1.150:9000/dashboard?id=blackmonocle-static
+ceTaskId=AY6zvcHvdr8pokGNFW0v
+ceTaskUrl=http://192.168.1.150:9000/api/ce/task?id=AY6zvcHvdr8pokGNFW0v

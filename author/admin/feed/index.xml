@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin, Author at Black Monocle</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Cloud Security Consultancy &#38; Services</description>
+	<lastBuildDate>Wed, 31 Jan 2024 13:16:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/04/cropped-mono-fav-32x32.png</url>
+	<title>admin, Author at Black Monocle</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Zero Trust Security Explained: Securing the Modern Digital World</title>
+		<link>./../../../2024/01/31/zero-trust-security-explained/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 31 Jan 2024 13:16:53 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=473</guid>
+
+					<description><![CDATA[<p>Ever heard of the term 'zero trust security' and wondered what all the fuss is about? You're not alone! In today's digital age, where cyber threats lurk around every corner, understanding zero trust security is crucial. This blog post will guide you through the basics of zero trust security, explaining why it's a game-changer in the realm of cybersecurity.</p>
+<p>The post <a href="./../../../2024/01/31/zero-trust-security-explained/index.html">Zero Trust Security Explained: Securing the Modern Digital World</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Introduction to Ransomware &#8211; A Straightforward Guide</title>
+		<link>./../../../2023/08/28/introduction-to-ransomware-a-straightforward-guide/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 28 Aug 2023 18:33:43 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=461</guid>
+
+					<description><![CDATA[<p>Ransomware is a word that has, unfortunately, become more common in our lexicon. With a spate of high-profile incidents in</p>
+<p>The post <a href="./../../../2023/08/28/introduction-to-ransomware-a-straightforward-guide/index.html">Introduction to Ransomware &#8211; A Straightforward Guide</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Strengthening Online Security: Understanding Single Sign-On (SSO) and Authentication</title>
+		<link>./../../../2023/08/05/strengthening-online-security-understanding-single-sign-on-sso-and-authentication/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 05 Aug 2023 13:59:29 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<category><![CDATA[Network Security]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=420</guid>
+
+					<description><![CDATA[<p>In an increasingly digital world, where information flows freely and transactions occur at the click of a button, the need</p>
+<p>The post <a href="./../../../2023/08/05/strengthening-online-security-understanding-single-sign-on-sso-and-authentication/index.html">Strengthening Online Security: Understanding Single Sign-On (SSO) and Authentication</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A Comprehensive Guide to AWS Security: Safeguarding Your Cloud Environment</title>
+		<link>./../../../2023/07/19/a-comprehensive-guide-to-aws-security-safeguarding-your-cloud-environment/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 19 Jul 2023 20:48:25 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=399</guid>
+
+					<description><![CDATA[<p>As businesses increasingly embrace the cloud for their infrastructure needs, Amazon Web Services (AWS) has emerged as a leading cloud</p>
+<p>The post <a href="./../../../2023/07/19/a-comprehensive-guide-to-aws-security-safeguarding-your-cloud-environment/index.html">A Comprehensive Guide to AWS Security: Safeguarding Your Cloud Environment</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Role of Cybersecurity Professionals in Combating Ransomware</title>
+		<link>./../../../2023/07/17/the-role-of-cybersecurity-professionals-in-combating-ransomware/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2023 21:53:27 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=380</guid>
+
+					<description><![CDATA[<p>In today&#8217;s interconnected digital landscape, ransomware has become one of the most pervasive and damaging cyber threats. As cybercriminals continuously</p>
+<p>The post <a href="./../../../2023/07/17/the-role-of-cybersecurity-professionals-in-combating-ransomware/index.html">The Role of Cybersecurity Professionals in Combating Ransomware</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Safeguarding Lives and Data: The Vital Importance of Security in the Healthcare Field</title>
+		<link>./../../../2023/06/19/safeguarding-lives-and-data-the-vital-importance-of-security-in-the-healthcare-field/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 19 Jun 2023 21:31:46 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=376</guid>
+
+					<description><![CDATA[<p>In the digital era, where technology plays an increasingly prominent role in our lives, the healthcare industry faces numerous challenges</p>
+<p>The post <a href="./../../../2023/06/19/safeguarding-lives-and-data-the-vital-importance-of-security-in-the-healthcare-field/index.html">Safeguarding Lives and Data: The Vital Importance of Security in the Healthcare Field</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Security and ChatGPT</title>
+		<link>./../../../2023/04/20/security-and-chatgpt/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 20 Apr 2023 11:52:49 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=369</guid>
+
+					<description><![CDATA[<p>Chatbots and ChatGPT are quickly becoming an integral part of our lives, from customer service to healthcare. However, as with</p>
+<p>The post <a href="./../../../2023/04/20/security-and-chatgpt/index.html">Security and ChatGPT</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How often should I be Pentesting?</title>
+		<link>./../../../2023/04/06/how-often-should-i-be-pentesting/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 06 Apr 2023 13:28:48 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=364</guid>
+
+					<description><![CDATA[<p>Penetration testing, commonly referred to as a pentest, is a vital aspect of cybersecurity. The purpose of a pentest is</p>
+<p>The post <a href="./../../../2023/04/06/how-often-should-i-be-pentesting/index.html">How often should I be Pentesting?</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Automation in Cyber Security</title>
+		<link>./../../../2023/02/16/automation-in-cyber-security/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 16 Feb 2023 21:35:14 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=358</guid>
+
+					<description><![CDATA[<p>In today&#8217;s digital world, cyber threats are growing at an alarming rate. As organizations continue to adopt digital technologies, the</p>
+<p>The post <a href="./../../../2023/02/16/automation-in-cyber-security/index.html">Automation in Cyber Security</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Email Security Tips</title>
+		<link>./../../../2023/02/15/email-security-tips/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 15 Feb 2023 03:02:54 +0000</pubDate>
+				<category><![CDATA[End User Education]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=356</guid>
+
+					<description><![CDATA[<p>Email has become an essential communication tool in our daily lives. We use email to send and receive messages, share</p>
+<p>The post <a href="./../../../2023/02/15/email-security-tips/index.html">Email Security Tips</a> appeared first on <a href="./../../../index.html">Black Monocle</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
